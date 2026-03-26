@@ -1,0 +1,16 @@
+Form=REGDEMO.FRM
+Module=REGMODUL; REGMODUL.BAS
+Form=FORM2.FRM
+ProjWinSize=84,412,228,128
+ProjWinShow=2
+IconForm="Form1"
+ExeName32="REGDEMO.exe"
+Name="REGDEMO"
+HelpContextID="0"
+StartMode=0
+VersionCompatible32="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
