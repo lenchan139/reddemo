@@ -1,0 +1,6 @@
+/* regdemo.rc - Resource file for Win32 Registry Demo */
+
+#include <windows.h>
+#include "regdemo.h"
+
+IDI_REGDEMO ICON "regdemo.ico"
